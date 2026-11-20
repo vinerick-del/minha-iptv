@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Amazonas" tvg-name="Amazon Sat",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-name="Record News",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-name="Canal UOL",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 group-title="Educação e Governo" tvg-name="TV Brasil",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Educação e Governo" tvg-name="Canal Gov",Canal Gov
@@ -9,6 +13,8 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Educação e Governo" tvg-name="Canal Libras",Canal Libras
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:-1 group-title="Educação e Governo" tvg-name="Canal Saúde",Canal Saúde
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 group-title="Educação e Governo" tvg-name="TV Câmara",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Educação e Governo" tvg-name="TV Câmara 2",TV Câmara 2
@@ -17,7 +23,21 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="Cultura e Entretenimento" tvg-name="Cultura Fast",Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-name="Canal UOL",Canal UOL
-https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 group-title="Cultura e Entretenimento" tvg-name="Canal Futura",Canal Futura
+https://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1 group-title="Cultura e Entretenimento" tvg-name="CINDIE TV",CINDIE TV
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="COM Brasil",COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 group-title="Agro e Campo" tvg-name="AgroBrasil TV",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="Agro e Campo" tvg-name="AgroCanal",AgroCanal
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="ISTV",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="Rede Brasil",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 group-title="Regionais" tvg-name="TVE RS",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="Canal Sete",Canal Sete
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
