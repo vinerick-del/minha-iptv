@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amazonas" tvg-name="Amazon Sat",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 group-title="Educação e Governo" tvg-name="TV Brasil",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Educação e Governo" tvg-name="Canal Gov",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Educação e Governo" tvg-name="Canal Educação",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Educação e Governo" tvg-name="Canal Libras",Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:-1 group-title="Educação e Governo" tvg-name="TV Câmara",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Educação e Governo" tvg-name="TV Câmara 2",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 group-title="Cultura e Entretenimento" tvg-name="TV Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 group-title="Cultura e Entretenimento" tvg-name="Cultura Fast",Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-name="Canal UOL",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="Canal Sete",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
